@@ -4,7 +4,7 @@ import router from "./router/routes.js";
 import bodyParser from "body-parser";
 import cors from "cors";
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(bodyParser.json());
 app.use("/material", router);
