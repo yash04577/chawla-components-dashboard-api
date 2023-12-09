@@ -1,0 +1,368 @@
+[
+  {
+    "id": "s100",
+    "Name Of Material": "Cold Drawing MS Wire",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s101",
+    "Name Of Material": "Steel Rod",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s102",
+    "Name Of Material": "Aluminum Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s103",
+    "Name Of Material": "Copper Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s104",
+    "Name Of Material": "Alloy Steel Bar",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s105",
+    "Name Of Material": "Brass Plate",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s106",
+    "Name Of Material": "Titanium Wire",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s107",
+    "Name Of Material": "Nickel Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s108",
+    "Name Of Material": "Stainless Steel Rod",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s109",
+    "Name Of Material": "Copper Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s110",
+    "Name Of Material": "Bronze Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s111",
+    "Name Of Material": "Aluminum Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s112",
+    "Name Of Material": "Carbon Steel Bar",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s113",
+    "Name Of Material": "Zinc Plate",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s114",
+    "Name Of Material": "Cobalt Wire",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s115",
+    "Name Of Material": "Tin Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s116",
+    "Name Of Material": "Lead Rod",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s117",
+    "Name Of Material": "Silver Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s118",
+    "Name Of Material": "Gold Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s119",
+    "Name Of Material": "Platinum Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s120",
+    "Name Of Material": "Palladium Bar",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s121",
+    "Name Of Material": "Rhodium Plate",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s122",
+    "Name Of Material": "Iridium Wire",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s123",
+    "Name Of Material": "Ruthenium Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s124",
+    "Name Of Material": "Osmium Rod",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s125",
+    "Name Of Material": "Neodymium Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s126",
+    "Name Of Material": "Samarium Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s127",
+    "Name Of Material": "Europium Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s128",
+    "Name Of Material": "Gadolinium Bar",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s129",
+    "Name Of Material": "Terbium Plate",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s130",
+    "Name Of Material": "Dysprosium Wire",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s131",
+    "Name Of Material": "Holmium Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s132",
+    "Name Of Material": "Erbium Rod",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s133",
+    "Name Of Material": "Thulium Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s134",
+    "Name Of Material": "Ytterbium Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s135",
+    "Name Of Material": "Lutetium Plate",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s136",
+    "Name Of Material": "Hafnium Bar",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s137",
+    "Name Of Material": "Tantalum Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s138",
+    "Name Of Material": "Tungsten Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s139",
+    "Name Of Material": "Rhenium Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s140",
+    "Name Of Material": "Osmium Rod",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s141",
+    "Name Of Material": "Iridium Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s142",
+    "Name Of Material": "Platinum Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s143",
+    "Name Of Material": "Gold Plate",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s144",
+    "Name Of Material": "Mercury Bar",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s145",
+    "Name Of Material": "Thallium Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s146",
+    "Name Of Material": "Lead Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s147",
+    "Name Of Material": "Bismuth Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s148",
+    "Name Of Material": "Polonium Rod",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s149",
+    "Name Of Material": "Astatine Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s150",
+    "Name Of Material": "Radon Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s151",
+    "Name Of Material": "Francium Plate",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s152",
+    "Name Of Material": "Radium Bar",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s153",
+    "Name Of Material": "Actinium Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s154",
+    "Name Of Material": "Thorium Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s155",
+    "Name Of Material": "Protactinium Coil",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s156",
+    "Name Of Material": "Uranium Rod",
+    "type": "rm",
+    "unit": "kg"
+  },
+  {
+    "id": "s157",
+    "Name Of Material": "Neptunium Wire",
+    "type": "component",
+    "unit": "g"
+  },
+  {
+    "id": "s158",
+    "Name Of Material": "Plutonium Sheet",
+    "type": "raw",
+    "unit": "lbs"
+  },
+  {
+    "id": "s159",
+    "Name Of Material": "Americium Plate",
+    "type": "finished",
+    "unit": "ton"
+  },
+  {
+    "id": "s160",
+    "Name Of Material": "Curium Bar",
+    "type": "rm",
+    "unit": "kg"
+  }
+]
